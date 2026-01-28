@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE / edytory
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logi i tymczasowe pliki
+*.log
+*.tmp
+
+# Dane / obrazy / pliki wyjściowe
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.npy
+*.npz
+*.h5
+*.db
+
+# Konfiguracje lokalne
+config.json
+.env
