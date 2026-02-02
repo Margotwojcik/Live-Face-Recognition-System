@@ -1,4 +1,3 @@
-"""
 Real-Time Face Verification (DeepFace + OpenCV)
 =======================================================
 
